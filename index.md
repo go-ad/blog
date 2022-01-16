@@ -5,6 +5,5 @@ You can use the [editor on GitHub](https://github.com/go-ad/blog/edit/gh-pages/i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 個人履歴
- [個人履歴](pro.md)
  [個人履歴](./pro.md)
 
