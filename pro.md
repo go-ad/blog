@@ -2,27 +2,32 @@
 
 ## スキル
 
-【開発経験】： 9年間 
+開発経験： 9年間 
 
-【環境】： Linux,Windows,iOS,IOS,Android 
+環境： Linux,Windows,iOS,IOS,Android 
 
-【スキル】： CentOS,Ubuntu,Debian,Shell,千手,kubernetes,NetWork,AWS,GCP,Vmvare,Jira各種,JP1,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
+スキル： CentOS,Ubuntu,Debian,Shell,千手,kubernetes,NetWork,AWS,GCP,Vmvare,Jira各種,JP1,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
 
-【開発言語】：
+開発言語：
+
 ①実務経験多い：Python,Java,Shell,C++,C#,JS ,HTML 　　　　　　　　　
+
 ②知識有り：Golang,Node.JS ,VBA,Cobol,PL/SQL 
 
-【技術】： Tomcat,WebSphere,JCL+AD,JS P,conv+kfile+fmcn,CMD,VSCode,ETL,Weblogic,WebOtx,ReportCraft,JasperReports, ASP.NET, Transact-SQL Windows Server 2016　IIS,Bitbucket,Sourcetree,slack,Microsoft Teams,SVN,CarotDAV,webdav,Visual Studio 2015,Office365,ThymLeaf,Angular.JS ,BootStrap Eclipse,A5M2,Capistrano,tk.mybatis,Alibaba Druid,RabbitMQ,Swagger2 RestFul API,ELK,jQuery,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVELEPER,SQL*Plus 【DB】： Oracle,SQL Server,MySQL,Redis,Postgre,access,DB2 
+技術： Tomcat,WebSphere,JCL+AD,JS P,conv+kfile+fmcn,CMD,VSCode,ETL,Weblogic,WebOtx,ReportCraft,JasperReports, ASP.NET, Transact-SQL Windows Server 2016　IIS,Bitbucket,Sourcetree,slack,Microsoft Teams,SVN,CarotDAV,webdav,Visual Studio 2015,Office365,ThymLeaf,Angular.JS ,BootStrap Eclipse,A5M2,Capistrano,tk.mybatis,Alibaba Druid,RabbitMQ,Swagger2 RestFul API,ELK,jQuery,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVELEPER,SQL*Plus 【DB】： Oracle,SQL Server,MySQL,Redis,Postgre,access,DB2 
 
-【その他】： Ansible,Azure,Azure PowerShell,Scrum,Hyper-v,Windows-server,Cisco,TP-Link,Dell EMC,SoapUI 
+その他： Ansible,Azure,Azure PowerShell,Scrum,Hyper-v,Windows-server,Cisco,TP-Link,Dell EMC,SoapUI 
 
-【工　　　程】： 要件定義～運用/保守 
+工程： 要件定義～運用/保守 
 
-【業務分野】： 物流,保険,証券,建設工事業,学校,サービス業,小売業,ERP 
+業務分野： 物流,保険,証券,建設工事業,学校,サービス業,小売業,ERP 
 
-【自 己 PR】： ・9年間以上のプログラミングと構築経験があり,主に保険,証券,物流,販売などの分野で,関連業務知識を持っています。 ・コミュニケーションを密に取り,関係値を構築していきながら信頼関係を築くことができます,事前に把握した情報をもって,迅速に提案することができております。 ・チームリーダー勤めてた経験もあり,指導する側として,他のメンバーの指揮をする。 |
+自 己 PR：
+9年間以上のプログラミングと構築経験があり,主に保険,証券,物流,販売などの分野で,関連業務知識を持っています。
+コミュニケーションを密に取り,関係値を構築していきながら信頼関係を築くことができます,事前に把握した情報をもって,迅速に提案することができております。
+チームリーダー勤めてた経験もあり,指導する側として,他のメンバーの指揮をする。 |
 
-【 Blog】：  https://go-ad.github.io/blog/   
+Blog：  https://go-ad.github.io/blog/   
 
 ## 資格  一覧
 
