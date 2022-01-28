@@ -8,7 +8,7 @@
 
 **3,技術形成流れ**：Java,C++,HTML,JS-->Linux-->DBA-->Micro Service-->Python-->Cloud Native-->CLoud Platform-->Network
 
-**4,スキル**： CentOS,Ubuntu,Debian,Shell,千手,kubernetes,NetWork,AWS,GCP,Vmvare,Jira各種,JP1,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
+**4,スキル**： AWS,kubernetes,CentOS,Ubuntu,Debian,Shell,千手,NetWork,GCP,Vmvare,Jira各種,JP1,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
 
 **5,開発言語**：
 
@@ -46,16 +46,16 @@
 | CCNA(Cisco Certified Network Associate)            |                                                        |
 | **Cloud Platform**                                 |                                                        |
 | SAA(AWS Certified Solutions Architect - Associate) | SAP(AWS Certified Solutions Architect - Professional） |
-| GCP-PCA(Professional Cloud Architect)              |                                                        |
+| GCP-PCA(Professional Cloud Architect)              |  Azure AZ-303                                                      |
 | **開発**                                           |                                                        |
 | OCP(Oracle Certified Professional)                 | OCI(Oracle Cloud Infrastructure)                       |
-| Python 101 for Data Science(provided by IBM)       |                                                        |
+| Python 101 for Data Science(provided by IBM)       | (DAV-C01)AWS Certified Developer Associate                                                       |
 
 --------------------------
 
 ## 経歴
 
-<u>**1. 大手企業バッチ総合保守 現在 ～ 2020/3**</u>
+<u>**1. 大手企業バッチ総合保守 2022/4 ～ 2020/3**</u>
 
 **システム概要**
 
@@ -79,6 +79,29 @@
 
 **技術**  
 
++ AWS 
+
+  + EC2 
+
+  + VPC
+
+  + Lamda 
+
+  + SNS+SQS
+
+  + AWS API
+
+  + CloudFormation
+
+
++ AWS 
+
+  + API 
+
+  + CLI
+
+  + SDK 
+
 + Shell  
 
   + BashShell  
@@ -90,17 +113,6 @@
   + Tomcat  
 
   + WebSphere Cobol 
-
-+ AWS Lamda SDK Python  
-
-  + SNS  
-
-  + AWS API  
-
-  + CloudFormation  
-
-  + VPC 
-
 + C++ JCL+ADコマンド 
 + conv+kfile+fmcn 
 + VBA VBS CMD 
@@ -186,7 +198,7 @@ Windows Linux AWS SQL Server
 + Visual Studio Code (Markdown) 
 + Office365
 
-<u>**4. NTT統合設備工事システム 2018/07 ～ 2019/8**</u>
+<u>**4. NTT統合設備工事システム 2017/12 ～ 2018/6**</u>
 
 **システム概要**
 
@@ -225,7 +237,7 @@ Windows Linux IPAD PostgreSQL
 +  Jenkins 
 + Capistrano
 
-<u>**4. 雲空間(深圳)-言語学校仲介システム 2016/9 ～ 2017/11**</u>
+<u>**4. 雲空間(深圳)-言語学校仲介システム 2016/5 ～ 2017/11**</u>
 
 **システム概要**
 
@@ -273,7 +285,7 @@ Windows Linux AlibabaECS Mysql Redis
 + PyCharm 
 + Eclipse
 
-<u>**6. Tencent-TME発展部門:業務システムサービス改善  2016/9 ～ 2017/11**</u>
+<u>**6. Tencent-TME発展部門:業務システムサービス改善  2014/8 ～ 2016/4**</u>
 
 **システム概要**
 
@@ -318,7 +330,7 @@ Windows Linux MacBook Oracle
 
 + 
 
-<u>**7. P2P金融もとに融資システム  2014/8 ～ 2015/7**</u>
+<u>**7. P2P金融もとに融資システム  2013/8 ～ 2014/3**</u>
 
 **システム概要**
 
