@@ -27,7 +27,7 @@
 **10,業務分野**： 物流,保険,証券,建設工事業,学校,サービス業,小売業,ERP 
 
 **11,自 己 PR**：
-アプリケーションの開発経験が圧倒的に多いですが、クラウド系インフラ構築経験も
+アプリケーションの開発経験が圧倒的に多いですが、クラウド系インフラ構築経験やDBA構築経験も
 あって、これからクラウド系インフラ構築に転向していきたいと考えている（AWSやGCP構築関係の資格は取りました）。
 英語のミーティングについては実務経験がございます。
 9年間以上のプログラミングと構築経験があり,主に保険,証券,物流,販売などの分野で,関連業務知識を持っています。
@@ -38,7 +38,7 @@
 
 ## 資格  一覧
 
-| **資格**                                       |                                                        |
+| **資格**                                           |                                                        |
 | -------------------------------------------------- | ------------------------------------------------------ |
 | **言語能力**                                       |                                                        |
 | 日本語能力試験N1                                   | CET4(College English Test)                             |
@@ -49,10 +49,10 @@
 | CCNA(Cisco Certified Network Associate)            |                                                        |
 | **Cloud Platform**                                 |                                                        |
 | SAA(AWS Certified Solutions Architect - Associate) | SAP(AWS Certified Solutions Architect - Professional） |
-| GCP-PCA(Professional Cloud Architect)              |  Azure AZ-303                                                      |
+| GCP-PCA(Professional Cloud Architect)              | Azure AZ-303                                           |
 | **開発**                                           |                                                        |
 | OCP(Oracle Certified Professional)                 | OCI(Oracle Cloud Infrastructure)                       |
-| Python 101 for Data Science(provided by IBM)       | (DAV-C01)AWS Certified Developer Associate                                                       |
+| Python 101 for Data Science(provided by IBM)       | (DAV-C01)AWS Certified Developer Associate             |
 
 --------------------------
 
@@ -114,7 +114,7 @@
 
   + PowerShell Java  
 
-  + JS P  
+  + JSP
 
   + Tomcat  
 
@@ -133,6 +133,8 @@ Windows RedHat IBM ORACLE Android Oracle SQL Server DB2 Access iOS
 
 + 千手　Jp1 Visual Studio Code Jira各種
 
+----------------
+
 
 <u>**2. GRANDIT-ERP-次期基幹システム 2018/07 ～ 2020/2**</u>
 
@@ -143,10 +145,17 @@ Windows RedHat IBM ORACLE Android Oracle SQL Server DB2 Access iOS
 
 **担当範囲** 
 
-+ 新規開発 ,基本設計
-+ 詳細設計書の品質強化対応 SVN基本設計書、SVN詳細設計書、標準設計書の3点を元に詳細設計書を作成。
-+ 製造実施　　製造レビュー修正 
-+ DBオブジェクト開発 単体テスト実施　単体テスト障害対応　単体テスト再実施
++ AWSの構築
+  VMからKubernatesへの移行モニタリングサイトの作成、監視の設定。
+  EC2　Auto　Scaling設定、デプロイ設定(CI/CD,GitLab Actions,Jenkins)
+  アクセスログとAPP関連ログをCloudWatchLogsからLamdaでS3保管とKibanaの可視化
+  Pythonを使用したLamda関数設定。
+
++ 開発
+  新規開発 ,基本設計
+  詳細設計書の品質強化対応 SVN基本設計書、SVN詳細設計書、標準設計書の3点を元に詳細設計書を作成。
+  製造実施　　製造レビュー修正 
+  DBオブジェクト開発 単体テスト実施　単体テスト障害対応　単体テスト再実施
 
 **技術**  
 + AWS
@@ -178,6 +187,8 @@ Windows Linux AWS SQL Server
 + Visual Studio 2015 
 + Visual Studio Code (Markdown) 
 + Office365
+
+-----------------
 
 <u>**3. NTT統合設備工事システム 2017/12 ～ 2018/6**</u>
 
@@ -217,6 +228,8 @@ Windows Linux IPAD PostgreSQL
 + Redmine
 +  Jenkins 
 + Capistrano
+
+-------------
 
 <u>**4. 雲空間(深圳)-言語学校仲介システム 2016/5 ～ 2017/11**</u>
 
@@ -266,6 +279,8 @@ Windows Linux AlibabaECS Mysql Redis
 + PyCharm 
 + Eclipse
 
+---------------
+
 <u>**5. Tencent-TME発展部門:業務システムサービス改善  2014/8 ～ 2016/4**</u>
 
 **システム概要**
@@ -311,6 +326,8 @@ Windows Linux MacBook Oracle
 
 + 
 
+----------------
+
 <u>**6. P2P金融もとに融資システム  2013/8 ～ 2014/3**</u>
 
 **システム概要**
@@ -345,4 +362,3 @@ Windows Linux MySql
 
 + Jenkins 
 + SVN
-
