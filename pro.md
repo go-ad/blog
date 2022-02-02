@@ -8,7 +8,7 @@
 
 **3,技術形成流れ**：Java,C++,HTML,JS-->Linux-->DBA-->Micro Service-->Python-->Cloud Native-->CLoud Platform-->Network
 
-**4,スキル**： AWS,kubernetes,CentOS,Ubuntu,Debian,Shell,千手,NetWork,GCP,Vmvare,Jira各種,JP1,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
+**4,スキル**： AWS,kubernetes,CentOS,Ubuntu,Debian,Shell,千手,NetWork,GCP,Vmvare,Jira各種,JP1,GIT,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
 
 **5,開発言語**：
 
