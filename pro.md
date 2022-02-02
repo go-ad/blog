@@ -38,9 +38,8 @@
 
 ## 資格  一覧
 
-| **資格**                                           |                                                        |
-| -------------------------------------------------- | ------------------------------------------------------ |
-| **言語能力**                                       |                                                        |
+| **言語能力**                                       |                                        |
+| :------------------------------------------------- | ------------------------------------------------------ |
 | 日本語能力試験N1                                   | CET4(College English Test)                             |
 | **Cloud Native**                                   |                                                        |
 | RHCE(Red Hat Certified Engineer)                   | LPIC(Linux Professional Institute)                     |
@@ -50,7 +49,7 @@
 | **Cloud Platform**                                 |                                                        |
 | SAA(AWS Certified Solutions Architect - Associate) | SAP(AWS Certified Solutions Architect - Professional） |
 | GCP-PCA(Professional Cloud Architect)              | Azure AZ-303                                           |
-| **開発**                                           |                                                        |
+| **その他**                                         |                                                        |
 | OCP(Oracle Certified Professional)                 | OCI(Oracle Cloud Infrastructure)                       |
 | Python 101 for Data Science(provided by IBM)       | (DAV-C01)AWS Certified Developer Associate             |
 
