@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to JIUZHOU  ZHOU Pages
 
-You can use the [editor on GitHub](https://github.com/go-ad/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 個人履歴
+## プロジェクト
+
+
+## 資格
+
+
+## 個人履歴
+
  [個人履歴](./pro.md)
-
