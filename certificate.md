@@ -6,6 +6,14 @@
 
 ### AWS  Certified Solutions Architect - Accociate
 
+### AWS Certified Solutions Architect - Professional
+
 発行団体:Amazon Web Services (AWS)
 
-[認定](https://www.credly.com/badges/a88dcd71-fb3a-4b13-9f5c-27467ea7ca5e/public_url)
+[認定URL](https://www.credly.com/badges/a88dcd71-fb3a-4b13-9f5c-27467ea7ca5e/public_url)
+
+### PROFESSIONAL CLOUD ARCHITECT
+
+Google
+
+[認定URL](https://www.credential.net/8cde0424-754e-49e6-9697-f73430b43ced?key=c45ea5047c8ecb33b2609f3e365acbe99c2bcdd82bc7fa563f16a6ee6c3d6440)
