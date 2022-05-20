@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://github.com/go-ad/blog/blob/gh-pages/static/png/me2.png?raw=true" alt="Logo" width=76 height=72>
+    <img src="https://github.com/go-ad/blog/blob/gh-pages/static/png/me2.png?raw=true" alt="Logo" width=72 height=72>
   </a>
   <h3 align="center">Logo</h3>
   <p align="center">
