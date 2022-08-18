@@ -46,33 +46,32 @@ RabbitMQ,Swagger2 RestFul API,ELK,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVEL
 
 **9,Blog**：  https://go-ad.github.io/blog/   
 
-## 資格  一覧																			取得資格			言語能力  																							
-日本語能力試験N1										CET4(College English Test)										
-TOEIC(In progress)																							
-Cloud　能力																							
-Red Hat-Red Hat Certified Engineer										LPIC-Linux Professional Institute													
-K8s-Certified Kubernetes Administrator										ITIL-ITIL v4 Foundation													
-SCRUM-Professional Scrum Master I										Cisco- Cisco Certified Network Associate													
-AWS -AWS Certified Solutions Architect - Associate										CompTIA-CompTIA Security+													
-AWS-AWS Certified DevOps Engineer - Professional										AWS-AWS Certified Solutions Architect - Professional													
-AWS-AWS Certified Developer Associate										Google-Professional Cloud Architect													
-Azure-Microsoft Azure Administrator										Oracle-Oracle Certified Professional													
-Oracle-Oracle Cloud Infrastructure																							
-Iot And AI  能力  																							
-Google-TensorFlow Developer Certificate										FreeCodeCamp-Scientific Computing With Python													
-FreeCodeCamp-Back End Development And APIs										Azure-Azure IoT Developer Specialty													
-AWS -aws machine learning certification										IBM- Python for Data Science													
-                                                                                            
-言語　開発　能力																							
-C++ Institute-C++ Certified Professional Programmer(In progress)										HackerRank-C# (Basic) Certificate													
-HackerRank-Go (Basic) Certificate										HackerRank-Java (Basic) Certificate													
-HackerRank-Node (Basic) Certificate										HackerRank-Problem Solving (Basic) Certificate													
-HackerRank-Problem Solving (Intermediate) Certificate										HackerRank-Python (Basic) Certificate													
-HackerRank-React (Basic) Certificate										HackerRank-SQL (Basic) Certificate													
-HackerRank-SQL (Intermediate) Certificate										HackerRank-Angular (Basic) Certificate													
+## 資格  一覧																			取得資格			言語能力  																		
+			日本語能力試験N1										CET4(College English Test)													
+			TOEIC(In progress)																							
+			Cloud　能力																							
+			Red Hat-Red Hat Certified Engineer										LPIC-Linux Professional Institute													
+			K8s-Certified Kubernetes Administrator										ITIL-ITIL v4 Foundation													
+			SCRUM-Professional Scrum Master I										Cisco- Cisco Certified Network Associate													
+			AWS -AWS Certified Solutions Architect - Associate										CompTIA-CompTIA Security+													
+			AWS-AWS Certified DevOps Engineer - Professional										AWS-AWS Certified Solutions Architect - Professional													
+			AWS-AWS Certified Developer Associate										Google-Professional Cloud Architect													
+			Azure-Microsoft Azure Administrator										Oracle-Oracle Certified Professional													
+			Oracle-Oracle Cloud Infrastructure																							
+			Iot And AI  能力  																							
+			Google-TensorFlow Developer Certificate										FreeCodeCamp-Scientific Computing With Python													
+			FreeCodeCamp-Back End Development And APIs										Azure-Azure IoT Developer Specialty													
+			AWS -aws machine learning certification										IBM- Python for Data Science													
 																										
-					
+			言語　開発　能力																							
+			C++ Institute-C++ Certified Professional Programmer(In progress)										HackerRank-C# (Basic) Certificate													
+			HackerRank-Go (Basic) Certificate										HackerRank-Java (Basic) Certificate													
+			HackerRank-Node (Basic) Certificate										HackerRank-Problem Solving (Basic) Certificate													
+			HackerRank-Problem Solving (Intermediate) Certificate										HackerRank-Python (Basic) Certificate													
+			HackerRank-React (Basic) Certificate										HackerRank-SQL (Basic) Certificate													
+			HackerRank-SQL (Intermediate) Certificate										HackerRank-Angular (Basic) Certificate													
 																										
+								HackerRank-Angular (Basic) Certificate																
 --------------------------
 
 ## 経歴
