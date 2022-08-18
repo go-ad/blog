@@ -15,12 +15,14 @@ Scrum,アジャイル,ITIL
 【スキル②】： 
 AWS,Ansible,Azure,Azure PowerShell,kubernetes,CentOS,Ubuntu,Debian,Shell,NetWork,
 GCP,Vmvare,千手,Jira各種,JP1,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell
+
 【スキル③】：
 AI&Python:TensorFlow,Pytorch,Django,flask,segaMaker,MLP,DNN,CNN,RNN,GAN,AutoEncoder,Estimators,openstack
 Java:Spring-Cloud-Boot-Native-MVC-Batch-Integration,EJB,Hadoop,JSP
 JS:Jquery,Node.js,npm,MongoDB,Mongoose,Chai,React.js,Angular.js,Typescript,ThymLeaf,BootStrap
 C:C++,C#,mfc,qt,asp.net,ado.net,Winform 
 Golang:go-micro,gin,gorm,beego,fabric,rpc
+
 【スキル④】： 
 Jenkins,Tomcat,WebSphere,JCL+AD,conv+kfile+fmcn,CMD,VSCode,ETL,Weblogic,WebOtx,ReportCraft,
 JasperReports, Transact-SQL,Windows Server 2016　IIS,Bitbucket,
@@ -28,23 +30,13 @@ Sourcetree,slack,Microsoft Teams,SVN,CarotDAV,
 webdav,Visual Studio 2015,Office365,Eclipse,A5M2,Capistrano,tk.mybatis,Alibaba Druid,
 RabbitMQ,Swagger2 RestFul API,ELK,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVELEPER,SQL*Plus,Scrum,Hyper-v,Windows-server,Cisco,TP-Link,Dell EMC,SoapUI
 
-**5,開発言語**：
+**5,DB**： Oracle,SQL Server,MySQL,Redis,Postgre,access,DB2 
 
-①実務経験多い：Python,Java,Shell,C++,C#,JS ,HTML 　　　　　　　　　
+**6,工程**： 要件定義～運用/保守 
 
-②知識有り：Golang,Node.JS ,VBA,Cobol,PL/SQL 
+**7,業務分野**： 物流,保険,証券,建設工事業,学校,サービス業,小売業,ERP 
 
-**6,技術**： Tomcat,WebSphere,JCL+AD,JS P,conv+kfile+fmcn,CMD,VSCode,ETL,Weblogic,WebOtx,ReportCraft,JasperReports, ASP.NET, Transact-SQL Windows Server 2016　IIS,Bitbucket,Sourcetree,slack,Microsoft Teams,SVN,CarotDAV,webdav,Visual Studio 2015,Office365,ThymLeaf,Angular.JS ,BootStrap Eclipse,A5M2,Capistrano,tk.mybatis,Alibaba Druid,RabbitMQ,Swagger2 RestFul API,ELK,jQuery,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVELEPER,SQL/*Plus 
-
-**7,DB**： Oracle,SQL Server,MySQL,Redis,Postgre,access,DB2 
-
-**8,その他**： Ansible,Azure,Azure PowerShell,Scrum,Hyper-v,Windows-server,Cisco,TP-Link,Dell EMC,SoapUI 
-
-**9,工程**： 要件定義～運用/保守 
-
-**10,業務分野**： 物流,保険,証券,建設工事業,学校,サービス業,小売業,ERP 
-
-**11,自 己 PR**：
+**8,自 己 PR**：
 アプリケーションの開発経験が圧倒的に多いですが、クラウド系インフラ構築経験やDBA構築経験も
 あって、これからクラウド系インフラ構築に転向していきたいと考えている（AWSやGCP構築関係の資格は取りました）。
 英語のミーティングについては実務経験がございます。
@@ -52,7 +44,7 @@ RabbitMQ,Swagger2 RestFul API,ELK,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVEL
 コミュニケーションを密に取り,関係値を構築していきながら信頼関係を築くことができます,事前に把握した情報をもって,迅速に提案することができております。
 チームリーダー勤めてた経験もあり,指導する側として,他のメンバーの指揮をする。 
 
-**12,Blog**：  https://go-ad.github.io/blog/   
+**9,Blog**：  https://go-ad.github.io/blog/   
 
 ## 資格  一覧																						
 			日本語能力試験N1										CET4(College English Test)													
