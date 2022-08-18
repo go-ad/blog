@@ -6,9 +6,27 @@
 
 **2,環境**： Linux,Windows,iOS,IOS,Android 
 
-**3,技術形成流れ**：Java,C++,HTML,JS-->Linux-->DBA-->Micro Service-->Python-->Cloud Native-->CLoud Platform-->Network
+**3,技術形成流れ**：Java,C++,HTML,JS–>Linux–>DBA–>Python–>Cloud Native–>AWS Azure GCP–>Network–>AI,Data Science
 
-**4,スキル**： AWS,kubernetes,CentOS,Ubuntu,Debian,Shell,千手,NetWork,GCP,Vmvare,Jira各種,JP1,GIT,Spring-Cloud-Boot-MVC-Batch-Integration,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell 
+**4,スキル**：
+
+【スキル①】： 
+Scrum,アジャイル,ITIL
+【スキル②】： 
+AWS,Ansible,Azure,Azure PowerShell,kubernetes,CentOS,Ubuntu,Debian,Shell,NetWork,
+GCP,Vmvare,千手,Jira各種,JP1,Teambition,Jenkins,Redmine,Nginx,Docker,Teraterm,XShell
+【スキル③】：
+AI&Python:TensorFlow,Pytorch,Django,flask,segaMaker,MLP,DNN,CNN,RNN,GAN,AutoEncoder,Estimators,openstack
+Java:Spring-Cloud-Boot-Native-MVC-Batch-Integration,EJB,Hadoop,JSP
+JS:Jquery,Node.js,npm,MongoDB,Mongoose,Chai,React.js,Angular.js,Typescript,ThymLeaf,BootStrap
+C:C++,C#,mfc,qt,asp.net,ado.net,Winform 
+Golang:go-micro,gin,gorm,beego,fabric,rpc
+【スキル④】： 
+Jenkins,Tomcat,WebSphere,JCL+AD,conv+kfile+fmcn,CMD,VSCode,ETL,Weblogic,WebOtx,ReportCraft,
+JasperReports, Transact-SQL,Windows Server 2016　IIS,Bitbucket,
+Sourcetree,slack,Microsoft Teams,SVN,CarotDAV,
+webdav,Visual Studio 2015,Office365,Eclipse,A5M2,Capistrano,tk.mybatis,Alibaba Druid,
+RabbitMQ,Swagger2 RestFul API,ELK,Maven3.5,Nexus2.x,Gitlab,PyCharm,XML,SQL DEVELEPER,SQL*Plus,Scrum,Hyper-v,Windows-server,Cisco,TP-Link,Dell EMC,SoapUI
 
 **5,開発言語**：
 
@@ -36,23 +54,31 @@
 
 **12,Blog**：  https://go-ad.github.io/blog/   
 
-## 資格  一覧
-
-| **言語能力**                                       |                                        |
-| :------------------------------------------------- | ------------------------------------------------------ |
-| 日本語能力試験N1                                   | CET4(College English Test)                             |
-| **Cloud Native**                                   |                                                        |
-| RHCE(Red Hat Certified Engineer)                   | LPIC(Linux Professional Institute)                     |
-| CKA(Certified Kubernetes Administrator)            |                                                        |
-| **Network**                                        |                                                        |
-| CCNA(Cisco Certified Network Associate)            |                                                        |
-| **Cloud Platform**                                 |                                                        |
-| SAA(AWS Certified Solutions Architect - Associate) | SAP(AWS Certified Solutions Architect - Professional） |
-| GCP-PCA(Professional Cloud Architect)              | Azure AZ-303                                           |
-| **その他**                                         |                                                        |
-| OCP(Oracle Certified Professional)                 | OCI(Oracle Cloud Infrastructure)                       |
-| Python 101 for Data Science(provided by IBM)       | (DAV-C01)AWS Certified Developer Associate             |
-
+## 資格  一覧																						
+			日本語能力試験N1										CET4(College English Test)													
+			TOEIC(In progress)																							
+			Cloud　能力																							
+			Red Hat-Red Hat Certified Engineer										LPIC-Linux Professional Institute													
+			K8s-Certified Kubernetes Administrator										ITIL-ITIL v4 Foundation													
+			SCRUM-Professional Scrum Master I										Cisco- Cisco Certified Network Associate													
+			AWS -AWS Certified Solutions Architect - Associate										CompTIA-CompTIA Security+													
+			AWS-AWS Certified DevOps Engineer - Professional										AWS-AWS Certified Solutions Architect - Professional													
+			AWS-AWS Certified Developer Associate										Google-Professional Cloud Architect													
+			Azure-Microsoft Azure Administrator										Oracle-Oracle Certified Professional													
+			Oracle-Oracle Cloud Infrastructure																							
+			Iot And AI  能力  																							
+			Google-TensorFlow Developer Certificate										FreeCodeCamp-Scientific Computing With Python													
+			FreeCodeCamp-Back End Development And APIs										Azure-Azure IoT Developer Specialty													
+			AWS -aws machine learning certification										IBM- Python for Data Science													
+																										
+			言語　開発　能力																							
+			C++ Institute-C++ Certified Professional Programmer(In progress)										HackerRank-C# (Basic) Certificate													
+			HackerRank-Go (Basic) Certificate										HackerRank-Java (Basic) Certificate													
+			HackerRank-Node (Basic) Certificate										HackerRank-Problem Solving (Basic) Certificate													
+			HackerRank-Problem Solving (Intermediate) Certificate										HackerRank-Python (Basic) Certificate													
+			HackerRank-React (Basic) Certificate										HackerRank-SQL (Basic) Certificate													
+			HackerRank-SQL (Intermediate) Certificate										HackerRank-Angular (Basic) Certificate													
+																										
 --------------------------
 
 ## 経歴
